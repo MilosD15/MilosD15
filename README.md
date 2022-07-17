@@ -8,14 +8,15 @@
 
 ## <div align="center">📜 My story 📜</div>
 
-<div align="justify">I got in touch with computer technologies in my vocational
+<div align="left">I got in touch with computer technologies in my vocational
 school for the first time. Firstly, I got familiar with 
 Word, PowerPoint, and Excel as well as software and hardware 
 in theory. In the second grade, I started to learn C. Soon, 
 we transferred to C++ and that's the time I learned the core 
 concepts of programming. Then, we began to make static web 
 pages in HTML and pure CSS. That's where my fascination 
-started. When we began adding dynamic elements to our 
+started. </div>
+<div align="center">When we began adding dynamic elements to our 
 static web pages using JavaScript, I knew that I had fallen 
 in love with the web. Later, I was watching videos on various 
 topics on my own, such as clean code, functional programming, 
@@ -23,7 +24,8 @@ testing, security, and so on, whilst I was learning Rasor
 Pages with C# in my school, but I have to say we were not 
 learning Backend Web Development in-depth. Previously, we 
 learned all about databases (creating database, modifying 
-data and lot more). We were learning MySQL. Now, I have a 
+data and lot more). We were learning MySQL.</div>
+<div align="right">Now, I have a 
 strong knowledge of HTML, pure CSS, and Vanilla JavaScript, 
 and I'm currently learning React alongside Tailwind CSS. My 
 plans for the future are to extend my knowledge by learning 
