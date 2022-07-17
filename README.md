@@ -16,6 +16,7 @@ we transferred to C++ and that's the time I learned the core
 concepts of programming. Then, we began to make static web 
 pages in HTML and pure CSS. That's where my fascination 
 started. 😲</div>
+<br />
 <div align="justify">When we began adding dynamic elements to our 
 static web pages using JavaScript, I knew that I had fallen 
 in love with the web. Later, I was watching videos on various 
@@ -25,6 +26,7 @@ Pages with C# in my school, but I have to say we were not
 learning Backend Web Development in-depth. Previously, we 
 learned all about databases (creating database, modifying 
 data and lot more). We were learning MySQL. 💻</div>
+<br />
 <div align="justify">Now, I have a 
 strong knowledge of HTML, pure CSS, and Vanilla JavaScript, 
 and I'm currently learning React alongside Tailwind CSS. My 
