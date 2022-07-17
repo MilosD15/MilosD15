@@ -60,11 +60,11 @@ Node.js and become a Full Stack Web Developer. ✨</div>
 <img width="34%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilosD15&title_color=FF782A&bg_color=282626&text_color=DDDDDD" />
 <br />
 
-<br /><br /><br /><br /><br /><br /><br /><br />
-<h2 align="center">Contact me via LinkedIn:
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<h1 align="center">Contact me via LinkedIn:
 <a href="https://linkedin.com/in/mdwebdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdwebdev" height="23" width="30" /></a>
 </p>
-</h2>
+</h1>
 
 
 
