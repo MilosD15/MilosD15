@@ -15,7 +15,7 @@ in theory. In the second grade, I started to learn C. Soon,
 we transferred to C++ and that's the time I learned the core 
 concepts of programming. Then, we began to make static web 
 pages in HTML and pure CSS. That's where my fascination 
-started. 😲</div>
+started. 🤩</div>
 <br />
 <div align="justify">When we began adding dynamic elements to our 
 static web pages using JavaScript, I knew that I had fallen 
@@ -50,10 +50,10 @@ Node.js and become a Full Stack Web Developer. ✨</div>
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
     </p>
     
-<h2 align="left">Contact me via LinkedIn:
-<a href="https://linkedin.com/in/mdwebdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdwebdev" height="15" width="20" /></a>
+<h1 align="center">Contact me via LinkedIn:
+<a href="https://linkedin.com/in/mdwebdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdwebdev" height="30" width="40" /></a>
 </p>
-</h2>
+</h1>
 
 
 ## <div align="center">📊 My Github Stats 📊</div>
