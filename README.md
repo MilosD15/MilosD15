@@ -8,7 +8,7 @@
 
 ## <div align="center">📜 My story 📜</div>
 
-<div align="center">I got in touch with computer technologies in my vocational
+<div align="justify">I got in touch with computer technologies in my vocational
 school for the first time. Firstly, I got familiar with 
 Word, PowerPoint, and Excel as well as software and hardware 
 in theory. In the second grade, I started to learn C. Soon, 
