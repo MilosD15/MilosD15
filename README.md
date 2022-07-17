@@ -33,6 +33,8 @@ and I'm currently learning React alongside Tailwind CSS. My
 plans for the future are to extend my knowledge by learning 
 Node.js and become a Full Stack Web Developer. ✨</div>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MilosD15)](https://git.io/streak-stats)
+
 <!--
 **MilosD15/MilosD15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
