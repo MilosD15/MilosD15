@@ -1,11 +1,13 @@
 [![MasterHead](https://lh3.googleusercontent.com/-DZrq6KMFsvmPrXQvboxmtidTvBjjgRstduu-kvJnvVm76P9nSWIdta-nnGiSg-fQf5GgRF10MeslP3qmD3ZlRyAoVPYZIwIBW4fZktMWG_nnv9foPb_2O7nFGdSeO2P9OF9yGHkUtnyRQ2oxjETYWawq39zdDlFDrK1EY5ZcsgCJOffl2Ru2GcSEkDYKrf-KxblT1Adc5Wre263qYloUz8UE2-IHqJn7dDR88fR7IXadejrvfXQ8DOGzvdOzhXgM0hNmmLh_-7OmYQhnUyqW-gvmtI9tI8fYn9_C8E1J2R4d4OcHRqkFhK59an2T1h_pHsLFco9hg_BANGImL5WIbtK6aGICeGpQMzAofM_81L8x3z7C16sHbR7p_X25kkyK2n2APapB-XGT2XFFpmPazGBBBN0g5dznNsRm14UGkyJznBx6CBb41iDLD3F3uPh6hGGcQ5ltvCmudNLABvLJyQImm40nmIXjwP2Fhb5SULh1zYSjBR-DVLuyMx_PCAN0wWa03EfI48phA-b2yEEIiZVEIdK-D-MKUpWnyTLu5ZrAwNdtsUdT59bTM361csNgpgh2NmYrXAgUMKrWaUty_ndASeD4wnuaB-wWh2hktEVMJShXVFRrE5Qj0o1Wz7jXFacBAmbj3mI_ca2dB9hLvq-ny2FiEJKpv5IgJcEcuXT9sR765fUZxy4OuSjv_HFYmLeYjg20qfZgXduAZWZ3HXTGvstnM8REXzMFyf_Ydch7gsPePQ8DMhAy7pvOwuVf8J5GKAWWTGQnXFw_cLJj1pEklWSj6yOPzhG=w1880-h903-no?authuser=0)](https://unsplash.com/photos/IKUYGCFmfw4)
 
+<br />
 ## <div align="center">🚀 About Me 🚀</div>
 <div align="center">👨‍💻 I'm a Frontend Web Developer Junior. 👨‍💻</div>
 <div align="center">🎓 Also I'm the valedicotrian for the class 2022 of the vocational school of Electical Engineering Nikola Tesla in Belgrade. 🎓</div>
 <div align="center">😱 I'm amazed with web and the whole Internet world. 😱</div>
 <div align="center">😊 My dream is to become a Full Stack Web Developer. 😊</div>
 
+<br />
 ## <div align="center">📜 My Story 📜</div>
 
 <div align="justify">I got in touch with computer technologies in my vocational
@@ -34,6 +36,7 @@ plans for the future are to extend my knowledge by learning
 Node.js and become a Full Stack Web Developer. ✨</div>
 
 
+<br />
 ## <div align="center">🛠 Languages and Tools: 🛠</div>
 <p align="center"> 
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -50,15 +53,18 @@ Node.js and become a Full Stack Web Developer. ✨</div>
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
     </p>
     
-<h1 align="center">Contact me via LinkedIn:
-<a href="https://linkedin.com/in/mdwebdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdwebdev" height="30" width="40" /></a>
-</p>
-</h1>
 
 
 ## <div align="center">📊 My Github Stats 📊</div>
 <img width="58%" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=MilosD15&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=FF4924&sideNums=96581B&background=282626&stroke=DDDDDD&currStreakNum=FF782A&currStreakLabel=DDDDDD&sideLabels=989898&ring=FF4924&dates=DDDDDD" />
 <img width="34%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilosD15&title_color=FF782A&bg_color=282626&text_color=DDDDDD" />
+<br />
+
+<br />
+<h2 align="center">Contact me via LinkedIn:
+<a href="https://linkedin.com/in/mdwebdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdwebdev" height="23" width="30" /></a>
+</p>
+</h2>
 
 
 
