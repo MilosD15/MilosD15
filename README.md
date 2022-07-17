@@ -34,7 +34,7 @@ plans for the future are to extend my knowledge by learning
 Node.js and become a Full Stack Web Developer. ✨</div>
 
 
-<h1 align="center">Languages and Tools:</h1>
+## <div align="center">🛠 Languages and Tools: 🛠</div>
 <p align="center"> 
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -50,13 +50,13 @@ Node.js and become a Full Stack Web Developer. ✨</div>
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
     </p>
     
-<h3 align="left">Contact me via LinkedIn:
-<a href="https://linkedin.com/in/mdwebdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdwebdev" height="30" width="40" /></a>
+<h2 align="left">Contact me via LinkedIn:
+<a href="https://linkedin.com/in/mdwebdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdwebdev" height="15" width="20" /></a>
 </p>
-</h3>
+</h2>
 
 
-## <div align="center">🛠 My Github Stats 🛠</div>
+## <div align="center">📊 My Github Stats 📊</div>
 <img width="58%" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=MilosD15&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=FF4924&sideNums=96581B&background=282626&stroke=DDDDDD&currStreakNum=FF782A&currStreakLabel=DDDDDD&sideLabels=989898&ring=FF4924&dates=DDDDDD" />
 <img width="34%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilosD15&title_color=FF782A&bg_color=282626&text_color=DDDDDD" />
 
