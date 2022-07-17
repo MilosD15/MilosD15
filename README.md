@@ -34,7 +34,7 @@ plans for the future are to extend my knowledge by learning
 Node.js and become a Full Stack Web Developer. ✨</div>
 
 ## <div align="center">🛠 My Github Stats 🛠</div>
-<img width="68%" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=MilosD15&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=FF4924&sideNums=96581B&background=282626&stroke=DDDDDD&currStreakNum=FF782A&currStreakLabel=DDDDDD&sideLabels=989898&ring=FF4924&dates=DDDDDD" />
+<img width="65%" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=MilosD15&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=FF4924&sideNums=96581B&background=282626&stroke=DDDDDD&currStreakNum=FF782A&currStreakLabel=DDDDDD&sideLabels=989898&ring=FF4924&dates=DDDDDD" />
 <img width="30%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilosD15" />
 
 
