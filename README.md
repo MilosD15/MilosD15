@@ -6,7 +6,7 @@
 <div align="center">😱 I'm amazed with web and the whole Internet world. 😱</div>
 <div align="center">😊 My dream is to become a Full Stack Web Developer. 😊</div>
 
-## <div align="center">📜 My story 📜</div>
+## <div align="center">📜 My Story 📜</div>
 
 <div align="justify">I got in touch with computer technologies in my vocational
 school for the first time. Firstly, I got familiar with 
@@ -33,6 +33,7 @@ and I'm currently learning React alongside Tailwind CSS. My
 plans for the future are to extend my knowledge by learning 
 Node.js and become a Full Stack Web Developer. ✨</div>
 
+## <div align="center">🛠 My Github Stats 🛠</div>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MilosD15)](https://git.io/streak-stats)
 
 <!--
