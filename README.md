@@ -51,20 +51,18 @@ Node.js and become a Full Stack Web Developer. ✨</div>
         <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
         <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
-    </p>
+</p>
+    
+## <div align="center">💎 Social Media: 💎</div>
+<p align="center"> 
+<a href="https://linkedin.com/in/mdwebdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdwebdev" height="23" width="30" /></a>
+</p>
     
 
 
 ## <div align="center">📊 My Github Stats 📊</div>
 <img width="58%" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=MilosD15&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=FF4924&sideNums=96581B&background=282626&stroke=DDDDDD&currStreakNum=FF782A&currStreakLabel=DDDDDD&sideLabels=989898&ring=FF4924&dates=DDDDDD" />
 <img width="34%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilosD15&title_color=FF782A&bg_color=282626&text_color=DDDDDD" />
-<br />
-
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-<h1 align="center">Contact me via LinkedIn:
-<a href="https://linkedin.com/in/mdwebdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdwebdev" height="23" width="30" /></a>
-</p>
-</h1>
 
 
 
@@ -81,9 +79,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<br /><br />
-Repositories:  <br />
-&nbsp;&nbsp;&nbsp; - Coca Colca Company Clone  <br />
-&nbsp;&nbsp;&nbsp; - Dronjak Gradnja website  <br />
-&nbsp;&nbsp;&nbsp; - Minesweeper game  <br />
 -->
