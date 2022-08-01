@@ -5,7 +5,7 @@
 <div align="center">👨‍💻 I'm a Frontend Web Developer Junior. 👨‍💻</div>
 <div align="center">🎓 Also I'm the valedictorian for the class 2022 of the vocational school of Electrical Engineering Nikola Tesla in Belgrade. 🎓</div>
 <div align="center">😱 I'm amazed by the Web and the whole Internet world. 😱</div>
-<div align="center">😊 My dream is to become a Full Stack Web Developer. 😊</div>
+<div align="center">😊 My goal is to become a Full Stack Web Developer. 😊</div>
 
 
 ## <div align="center">📜 My Story 📜</div>
