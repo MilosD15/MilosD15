@@ -61,8 +61,8 @@ Node.js and become a Full Stack Web Developer. ✨</div>
 
 
 ## <div align="center">📊 My Github Stats 📊</div>
-<div width="100%" align="center"><img width="80%" src="http://github-readme-streak-stats.herokuapp.com?user=MilosD15&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=FF4924&sideNums=96581B&background=282626&stroke=DDDDDD&currStreakNum=FF782A&currStreakLabel=DDDDDD&sideLabels=989898&ring=FF4924&dates=DDDDDD" /></div>
-<div width="100%" align="center"><img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilosD15&title_color=FF782A&bg_color=282626&text_color=DDDDDD" /></div>
+<div width="100%" align="center"><img width="60%" src="http://github-readme-streak-stats.herokuapp.com?user=MilosD15&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=FF4924&sideNums=96581B&background=282626&stroke=DDDDDD&currStreakNum=FF782A&currStreakLabel=DDDDDD&sideLabels=989898&ring=FF4924&dates=DDDDDD" /></div><br>
+<div width="100%" align="center"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilosD15&title_color=FF782A&bg_color=282626&text_color=DDDDDD" /></div>
 
 
 
