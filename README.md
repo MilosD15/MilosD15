@@ -1,4 +1,4 @@
-<img src="https://dronjakgradnja.nl/md%20linkedin%20banner.jpg" width="100%" />
+<img src="https://ndbinnenrenovaties.nl/md%20linkedin%20banner.jpg" width="100%" />
 
 
 ## <div align="center">🚀 About Me 🚀</div>
