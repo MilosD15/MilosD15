@@ -29,16 +29,16 @@ learning Backend Web Development in-depth. Previously, we
 learned all about databases (creating database, modifying 
 data and lot more). We were learning MySQL. 💻</div>
 <br />
-<div align="justify">Now, I have a 
-strong knowledge of HTML, pure CSS, and Vanilla JavaScript, 
-and I'm currently learning React alongside Tailwind CSS. My 
-plans for the future are to extend my knowledge by learning 
-Node.js and become a Full Stack Web Developer. ✨</div>
+<div align="justify">Now, I'm focused on two things: Shopify 
+(themes, apps, e-commerce experiences) and AI automations 
+(Zapier, Make, n8n). My goal is to help businesses run 
+smoother by combining great design/dev with smart automation. ✨</div>
 
 
 
 ## <div align="center">🛠 Languages and Tools: 🛠</div>
 <p align="center"> 
+        <a href="https://en.wikipedia.org/wiki/Shopify" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/shopify-logo-png-transparent.png" alt="javascript" width="40" height="40"/> </a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
