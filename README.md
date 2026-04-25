@@ -29,7 +29,7 @@ Zapier, Make.com, Shopify Flow, n8n. Connecting the systems your clients already
 **Frontend**
 JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, SCSS, TinaCMS.
 
-<img src="https://readme-line.vercel.app/api?color=E07B1F" width="100%" />
+<img src="https://milosdronjak.me/img/github-divider-orange-line.png" width="100%" />
 
 ## Selected work
 
@@ -49,7 +49,7 @@ Custom checkout extension capturing passenger weight and eligibility data. Make.
 
 Single-page React site with custom scroll animations and interactive reveals. Stepped in as designer when needed to translate client requirements into layouts.
 
-<img src="https://readme-line.vercel.app/api?color=E07B1F" width="100%" />
+<img src="https://milosdronjak.me/img/github-divider-orange-line.png" width="100%" />
 
 ## Stack
 
@@ -64,7 +64,7 @@ Single-page React site with custom scroll animations and interactive reveals. St
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
 </p>
 
-<img src="https://readme-line.vercel.app/api?color=E07B1F" width="100%" />
+<img src="https://milosdronjak.me/img/github-divider-orange-line.png" width="100%" />
 
 ## GitHub stats
 
@@ -76,7 +76,7 @@ Single-page React site with custom scroll animations and interactive reveals. St
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilosD15&title_color=E07B1F&bg_color=1C1C1C&text_color=DDDDDD&hide_border=true" />
 </div>
 
-<img src="https://readme-line.vercel.app/api?color=E07B1F" width="100%" />
+<img src="https://milosdronjak.me/img/github-divider-orange-line.png" width="100%" />
 
 <p align="center">
   <a href="https://milosdronjak.me">milosdronjak.me</a> ·
