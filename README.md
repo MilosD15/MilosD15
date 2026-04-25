@@ -16,7 +16,7 @@ I work with what you already have. Before introducing anything new, I look at th
 - Upwork: [upwork.com/freelancers/~016c2ec76f60c85c55](https://www.upwork.com/freelancers/~016c2ec76f60c85c55)
 - Email: hello@milosdronjak.me
 
-<img src="https://readme-line.vercel.app/api?color=E07B1F" width="100%" />
+<img src="https://milosdronjak.me/img/github-divider-orange-line.png" width="100%" />
 
 ## What I work on
 
