@@ -1,79 +1,84 @@
+<!-- Banner — replace this image with your updated LinkedIn banner or a custom GitHub banner -->
 <img src="https://ndbinnenrenovaties.nl/md%20linkedin%20banner.jpg" width="100%" />
 
-
-## <div align="center">🚀 About Me 🚀</div>
-<div align="center">👨‍💻 I'm a UX Egineer & Shopify Developer. 👨‍💻</div>
-<div align="center">🎓 Also I'm the valedictorian for the class of 2022 of the vocational school of Electrical Engineering Nikola Tesla in Belgrade. 🎓</div>
-<div align="center">😱 I'm amazed by the Web and the whole Internet world. Recently got very interested in Shopify & AI Automations 😱</div>
-<div align="center">😊 My goal is to become a Shopify Expert. 😊</div>
-
-
-## <div align="center">📜 My Story 📜</div>
-
-<div align="justify">I got in touch with computer technologies in my vocational
-school for the first time. Firstly, I got familiar with 
-Word, PowerPoint, and Excel as well as software and hardware 
-in theory. In the second grade, I started to learn C. Soon, 
-we transferred to C++ and that's the time I learned the core 
-concepts of programming. Then, we began to make static web 
-pages in HTML and pure CSS. That's where my fascination 
-started. 🤩</div>
 <br />
-<div align="justify">When we began adding dynamic elements to our 
-static web pages using JavaScript, I knew that I had fallen 
-in love with the web. Later, I was watching videos on various 
-topics on my own, such as clean code, functional programming, 
-testing, security, and so on, whilst I was learning Rasor 
-Pages with C# in my school, but I have to say we were not 
-learning Backend Web Development in-depth. Previously, we 
-learned all about databases (creating database, modifying 
-data and lot more). We were learning MySQL. 💻</div>
-<br />
-<div align="justify">Now, I'm focused on two things: Shopify 
-(themes, apps, e-commerce experiences) and AI automations 
-(Zapier, Make, n8n). My goal is to help businesses run 
-smoother by combining great design/dev with smart automation. ✨</div>
 
+## Miloš Dronjak — Shopify Developer & Automation Specialist
 
+Shopify dev based in Rotterdam, NL. 3.5 years of production experience on live stores — custom storefronts, Zapier and Make.com automations, Shopify Flow, and custom app development.
 
-## <div align="center">🛠 Languages and Tools: 🛠</div>
-<p align="center"> 
-        <a href="https://en.wikipedia.org/wiki/Shopify" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/shopify-logo-png-transparent.png" alt="javascript" width="40" height="40"/> </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-        <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-        <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
-        <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> 
-        <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-        <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
+I work with what you already have. Before introducing anything new, I look at the tools your clients are already paying for and ask how far we can get with those.
+
+**I fix what nobody else wants to touch.**
+
+- Website: [milosdronjak.me](https://milosdronjak.me)
+- LinkedIn: [linkedin.com/in/mdwebdev](https://linkedin.com/in/mdwebdev)
+- Email: hello@milosdronjak.me
+
+---
+
+## What I work on
+
+**Shopify**
+Custom theme development, Liquid, Shopify Plus, custom sections and animations, product recommendation flows, checkout customization, app integrations, performance optimization, and custom Shopify app development.
+
+**Automations & integrations**
+Zapier, Make.com, Shopify Flow, n8n. Connecting the systems your clients already pay for — Klaviyo, Judge.me, Appstle, ShipStation, Airtable, HubSpot — and building the automations that remove manual work from your operations.
+
+**Frontend**
+JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, SCSS, TinaCMS.
+
+---
+
+## Selected work
+
+**Wonderful Dental** — Shopify Plus redesign, automation layer, AI ordering flow
+Full storefront redesign in Liquid with custom animations and a product recommendation quiz. Zapier and Shopify Flow automation layer. Currently building an AI-assisted ordering flow with early results showing +$100 average order value. Active collaboration since 2022.
+
+**MKB Digiwerkplaats** — Next.js website redesign
+Full redesign as senior developer. Next.js, Tailwind CSS, TinaCMS. Supervised a junior developer across the project including PR reviews and code quality checks.
+
+**E-Flight Academy** — Shopify checkout extension and Make.com automation
+Custom checkout extension capturing passenger weight and eligibility data. Make.com automation validates weight against cockpit limitations and pushes records to Airtable in real time. Replaced a fully manual ops process saving ~1-2 hours per week.
+
+**Match IT** — React website with custom animations
+Single-page React site with custom scroll animations and interactive reveals. Stepped in as designer when needed to translate client requirements into layouts.
+
+---
+
+## Stack
+
+<p>
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/shopify-logo-png-transparent.png" alt="Shopify" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SCSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="Zapier" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/make_integromat/make_integromat-icon.svg" alt="Make.com" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
 </p>
-    
-## <div align="center">💎 Social Media: 💎</div>
-<p align="center"> 
-<a href="https://linkedin.com/in/mdwebdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdwebdev" height="23" width="30" /></a>
+
+---
+
+## GitHub stats
+
+<div align="center">
+  <img width="80%" src="http://github-readme-streak-stats.herokuapp.com?user=MilosD15&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=E07B1F&sideNums=E07B1F&background=1C1C1C&stroke=333333&currStreakNum=E07B1F&currStreakLabel=DDDDDD&sideLabels=888888&ring=E07B1F&dates=888888" />
+</div>
+<br>
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilosD15&title_color=E07B1F&bg_color=1C1C1C&text_color=DDDDDD&hide_border=true" />
+</div>
+
+---
+
+<p align="center">
+  <a href="https://milosdronjak.me">milosdronjak.me</a> ·
+  <a href="https://linkedin.com/in/mdwebdev">LinkedIn</a> ·
+  <a href="mailto:hello@milosdronjak.me">hello@milosdronjak.me</a>
 </p>
-    
-
-
-## <div align="center">📊 My Github Stats 📊</div>
-<div width="100%" align="center"><img width="80%" src="http://github-readme-streak-stats.herokuapp.com?user=MilosD15&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=FF4924&sideNums=96581B&background=282626&stroke=DDDDDD&currStreakNum=FF782A&currStreakLabel=DDDDDD&sideLabels=989898&ring=FF4924&dates=DDDDDD" /></div><br>
-<div width="100%" align="center"><img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilosD15&title_color=FF782A&bg_color=282626&text_color=DDDDDD" /></div>
-
-
-
-<!--
-**MilosD15/MilosD15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
