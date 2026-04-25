@@ -1,5 +1,5 @@
 <!-- Banner — replace this image with your updated LinkedIn banner or a custom GitHub banner -->
-<img src="https://ndbinnenrenovaties.nl/md%20linkedin%20banner.jpg" width="100%" />
+<img src="https://milosdronjak.me/img/MD-Innovations-banner-Github.png" width="100%" />
 
 <br />
 
