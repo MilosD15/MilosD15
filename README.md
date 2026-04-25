@@ -58,9 +58,6 @@ Single-page React site with custom scroll animations and interactive reveals. St
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SCSS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="Zapier" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/make_integromat/make_integromat-icon.svg" alt="Make.com" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
 </p>
 
 ---
