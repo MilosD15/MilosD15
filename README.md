@@ -53,7 +53,7 @@ Single-page React site with custom scroll animations and interactive reveals. St
 
 ## Stack
 
-<p align="left">
+<p align="center">
   <img src="https://milosdronjak.me/img/github-icons.png" alt="JavaScript" width="auto" height="40"/>
 </p>
 
