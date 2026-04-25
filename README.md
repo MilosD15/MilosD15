@@ -54,7 +54,6 @@ Single-page React site with custom scroll animations and interactive reveals. St
 ## Stack
 
 <p align="left">
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/shopify-logo-png-transparent.png" alt="Shopify" width="40" height="40"/>&nbsp;
   <img src="https://milosdronjak.me/img/github-icons.png" alt="JavaScript" width="auto" height="40"/>
 </p>
 
